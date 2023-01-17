@@ -14,7 +14,7 @@ OpenVAA is accompanied by a research project called **YouthVAA** at the Helsinki
 
 ## Contact
 
-Chairperson • Project coordinator
-Kalle Järvenpää
-+358 50 357 2769
+Chairperson • Project coordinator<br>
+Kalle Järvenpää<br>
++358 50 357 2769<br>
 kalle.jarvenpaa@openvaa.org
