@@ -21,13 +21,28 @@
 title: OpenVAA
 email: info@openvaa.org
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for OpenVAA ry Association and the OpenVAA project to build
-  an open-source platform for VAAs, i.e., voting advice applications.
+  OpenVAA rakentaa avoimen vaalikonealustan ja oppaan koneiden suunnitteluun. 
+  Pilotti julkaistaan EU-vaaleihin huhtikuussa 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: openvaa.org          # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url:    https://openvaa.org  # the base hostname and protocol for your site, e.g. http://example.com
 twitter_username: openvaa
 github_username:  openvaa
+header_pages:
+  - index.md
+  - project/index.md
+  - project/timeline.md
+  - youthvaa/index.md
+  - association/index.md
+  - en/index.md
+lang: fi
+
+# defaults:
+#   - 
+#     scope:
+#       path: ""
+#     values:
+#       lang: fi_FI
 
 # Build settings
 theme: minima

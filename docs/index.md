@@ -3,18 +3,32 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: OpenVAA – Open-source tools for democracy
+title: Rakennamme avointa vaalikonealustaa ja suunnitteluopasta <span class="addendum">🎯 Pilotti EU-vaaleissa 2024</span>
+short_title: Etusivu
 ---
 
-OpenVAA ry is a non-profit association incorporated in Finland. It's purpose is to develop open digital tools for democracy with a special emphasis on VAAs or voting advice applications.
+## Miksi?
 
-Between 2023 and 2025 our focus will on building an open-source platform for VAAs. The project, called likewise OpenVAA, is graciously funded by [Sitra – the Finnish innovation fund](https://www.sitra.fi/en/topics/digital-power-and-democracy/).
+Luotettavammat vaalikoneet
+: Avoimen lähdekoodin alusta tekee vaalikoneiden toiminnasta läpinäkyvää ja auttaa virheiden löytämisessä. Kun alusta ja siihen liittyvä suunnitteluopas myös kehittyvät koko ajan, niissä voidaan helposti huomioida alan parhaat käytännöt sitä mukaa, kun ne muotoutuvat.
 
-OpenVAA is accompanied by a research project called **YouthVAA** at the Helsinki University, which studies how VAAs are used and produces a VAA targeted at young, first-time voters. The research project is funded by [Kone Foundation](https://koneensaatio.fi/en/).
+Vaihtoehtoiset vaalikoneet
+: Laadukkaiden vaalikoneiden julkaiseminen vaatii isohkon investoinnin, joka voi olla monille toimijoille ylitsepääsemätön este. Avoimen alustan avulla haluamme edistää vaalikoneiden monimuotoisuutta, jotta erilaiset poliittiset näkemykset sekä erilaisten äänestäjien ja vaalikoneiden julkaisijoiden tarpeet voidaan huomioida.
 
-## Contact
+Äänestysaktiivisuuden kohottaminen
+: Vaalikoneiden käyttö helpottaa äänestyspäätöksen tekemistä ja innostaa äänestämään.
 
-Chairperson • Project coordinator<br>
-Kalle Järvenpää<br>
-+358 50 357 2769<br>
-kalle.jarvenpaa@openvaa.org
+Vaalikoneet järjestöille
+: Erinomainen käyttökohde vaalikoneille voisivat olla esimerkiksi sisäisiä vaaleja käyttävät järjestöt, joista suurimmat jo julkaisevatkin vaalikoneita. Avoin alusta avaa tämän mahdollisuuden myös pienemmille toimijoille.
+
+Vaalikoneet tutkimuskäyttöön
+: Vaalikonetutkimus on tuottanut paljon uusia ajatuksia vaalikoneisiin. Kokonaisvaltaisten vaalikonekonseptien tutkiminen on kuitenkin hankalaa niiden toteuttamisen vaatiman työn vuoksi, mitä avoin alusta voi merkittävästi keventää.
+
+Tietoturvallinen tutkimusdata
+: Vaalikoneet voivat tuottaa erittäin hyödyllistä ja hienojakoista tietoa äänestäjien mielipiteistä. Sen kerääminen on kuitenkin sensitiivistä. Alusta rakennetaan niin, että tilastotietoa mielipiteistä kerätään suostumukseen perustuen ja yksityisyydensuoja säilyttäen.
+
+Kansainvälinen käyttö
+: Alusta rakennetaan niin, että se huomioi vaalijärjestelmien erot ja on luonnollisesti käännettävissä muille kielille.
+
+Lisätoiminnot vaalikoneiden päälle
+: Mitä muuta  vaalikoneiden yhteyteen voitaisiin rakentaa? Valittujen päätöksentekijöiden tai aiheiden seurantaa, keskusteluyhteyksiä äänestäjien ja edustajien välille? Avoin alusta helpottaa täysin uusien lisäominaisuuksien rakentamista ja yhdistämistä laajemmaksi ekosysteemiksi.
