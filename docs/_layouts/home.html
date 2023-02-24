@@ -6,7 +6,7 @@ layout: default
   <section class="hero">
     {%- if page.title -%}
       <h1 class="page-heading">{{ page.title }}</h1>
-      <a class="button" href="{{ page.read_more_url | default: '/intro'}}">{{ page.read_more_text | default: 'Lue lisää'}}</a>
+      <a class="button" href="{{ page.read_more_link | default: '/intro'}}">{{ page.read_more_text | default: 'Lue lisää'}}</a>
     {%- endif -%}
   </section>
 
