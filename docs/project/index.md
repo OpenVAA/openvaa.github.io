@@ -15,7 +15,7 @@ Ratkaisumme tähän haasteeseen on rakentaa avoimen lähdekoodin vaalikonealusta
 
 Vaalikoneiden suuren vaikuttavuuden vuoksi on tärkeää, että alusta ja sen avulla rakennetut koneet toimivat luotettavasti eivätkä toista aiempien koneiden virheitä. Tämän vuoksi laadimme alustaan kiinteästi sitoutuvan, tutkimuskirjallisuuteen pohjautuvan metodologisen oppaan, joka auttaa vaalikoneiden rakentajia vaalikoneprojektin eri vaiheissa, niin väittämien  muodostamisessa kuin suosittelualgoritmin valinnassa.
 
-Kolmivuotinen OpenVAA-hanke käynnistyi vuonna 2023, ja ensimmäiset sen avulla rakennetut vaalikoneet julkaistaan EU-vaaleissa 2024. Hankkeen rahoittaa [Sitra](https://www.sitra.fi/aiheet/digivalta/). Rinta rinnan hankkeen kanssa etenee [Koneen Säätiön](https://koneensaatio.fi/) rahoittama tutkimushanke [YouthVAA](/youthvaa), joka keskittyy vaalikoneen rakentamiseen nuorille.
+Kolmivuotinen OpenVAA-hanke käynnistyi vuonna 2023, ja ensimmäiset sen avulla rakennetut vaalikoneet julkaistaan EU-vaaleissa 2024. Hankkeen rahoittaa [Sitra](https://www.sitra.fi/hankkeet/avoin-vaalikonealusta/). Rinta rinnan hankkeen kanssa etenee [Koneen Säätiön](https://koneensaatio.fi/) rahoittama tutkimushanke [YouthVAA](/youthvaa), joka keskittyy vaalikoneen rakentamiseen nuorille.
 
 <p class="addendum" markdown="1">
     Hankkeita koordinoivat muotoilija [Kalle Järvenpää](http://kaljarv.com/) ja vaalikonetutkija [Veikko Isotalo](https://veikkoisotalo.fi/). Veikko on tutkinut laajasti vaalikoneiden suunnittelua ja niihin liittyviä teoreettisia kysymyksiä. Kalle puolestaan on perehtynyt vaalikoneiden käyttökokemukseen ja rakensi kuntavaaleihin 2021 käyttäjäkokemukseltaan uudenlaisen vaalikoneen.

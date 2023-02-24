@@ -5,7 +5,7 @@ title: Hankkeen virstanpylväät
 short_title: Aikataulu
 ---
 
-Kolmivuotinen OpenVAA-hanke käynnistyi 2023 ja ensimmäiset sen avulla rakennetut vaalikoneet julkaistaan EU-vaaleissa 2024*. Hankkeen rahoittaa [Sitra](https://www.sitra.fi/aiheet/digivalta/).
+Kolmivuotinen OpenVAA-hanke käynnistyi 2023 ja ensimmäiset sen avulla rakennetut vaalikoneet julkaistaan EU-vaaleissa 2024*. Hankkeen rahoittaa [Sitra](https://www.sitra.fi/hankkeet/avoin-vaalikonealusta/).
 
 | | Hanke | Vaalit |
 | ---- | ---- | ---- |
