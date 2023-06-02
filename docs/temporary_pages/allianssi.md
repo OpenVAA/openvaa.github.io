@@ -30,11 +30,13 @@ short_title: Vaalikonetyöpaja
 - Taustoitus
   - Johdanto EU-vaaleihin ylipäätään
   - Esittelyt aiheista, puolesta ja vastaan
-  - Teksti vai video?
+  - Teksti, video, graafit
+  - Videot: puhuvat päät vai infografiikka
 - Väittämät
   - Aiheiden valinta
   - Aiheiden painotus
-  - Vastausasteikko: 1–5, kyllä–ei jne.
+  - Vastausasteikko: liukukytkin, 1–5, 1–4, kyllä–ei jne.
+  - Kysymysten tyyppi: monivalinta, Likert, preferenssijärjestys
   - Arvo- ja asiakysymykset
 - Tulokset
   - Ehdokas vai puolue edellä
