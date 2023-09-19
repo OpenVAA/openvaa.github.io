@@ -25,3 +25,9 @@ Run:
     bundle exec jekyll serve
 
 Go to: http://localhost:4000
+
+If you make changes to `/docs/_config.yml`, rerun the command for updates to take effect.
+
+## Troubleshooting Ruby
+
+If `bundle install` fails due to HTTPErrors, try disabling IPv6 resolution: [Linux](https://stackoverflow.com/questions/49800432/gem-cannot-access-rubygems-org/50349235#50349235), [MacOS](https://stackoverflow.com/a/51015358).
