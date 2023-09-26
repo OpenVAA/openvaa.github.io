@@ -2,7 +2,7 @@
 layout: home
 permalink: /en
 lang: en
-title: Building an Open-Source Platform for Voting Advice Applications <span class="addendum">🎯 Pilot for EU Elections in 2024</span>
+title: Building an Open-Source Framework for Voting Advice Applications <span class="addendum">🎯 Pilot for EU Elections in 2024</span>
 short_title: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 In English
 read_more_link: /en/intro
 read_more_text: Read More
