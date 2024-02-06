@@ -32,7 +32,8 @@ header_pages:
   - index.md
   - project/index.md
   - project/timeline.md
-  - project/survey.md
+  - project/publications.md
+#  - project/survey.md
   - youthvaa/index.md
   - association/index.md
   - en/index.md
