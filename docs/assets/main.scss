@@ -118,6 +118,16 @@ h2,
   }
 }
 
+h3,
+.post-content h3 {
+  color: var(--color-primary);
+  font-size: var(--fontSize-M);
+  font-weight: var(--fontWeight-L);
+  line-height: var(--lineHeight-S);
+  margin-top: var(--margin-XL);
+}
+
+
 dl {
   text-align: center;
 }
