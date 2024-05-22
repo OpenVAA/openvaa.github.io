@@ -6,6 +6,8 @@ title: Building an Open-Source Framework for Voting Advice Applications <span cl
 short_title: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 In English
 read_more_link: /en/intro
 read_more_text: Read More
+feature_caption: Our first VAA is published! <a href="https://nuortenvaalikone.openvaa.org" target="_blank">The Election Compass for Young People</a> provides information using video.
+feature_alt: Screenshots from the video-based Election Compass for Young People
 ---
 
 ## OpenVAA Association
