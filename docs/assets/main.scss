@@ -150,6 +150,19 @@ blockquote {
   letter-spacing: var(--letterSpacing-M);
 }
 
+figure {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
 .centered {
   text-align: center;
 }
@@ -303,6 +316,17 @@ input[type="text"] {
   padding-top: var(--headerHeight);
 }
 
+.featured {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  img {
+    max-height: min(90vh, 36rem);
+    max-width: 100%;  
+  }
+}
 
 .boxedSection {
   background-color: var(--color-accentBg);
