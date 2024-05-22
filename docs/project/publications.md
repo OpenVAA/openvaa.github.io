@@ -7,6 +7,10 @@ short_title: Julkaisut
 
 Tälle sivulle on koottuna hankkeen julkaisuja. Ne ovat pääsääntöisesti Google Docs -muodossa, ja niitä voi ja sopii kommentoida. Julkaisut ovat [pyydettäessä](/association) saatavilla myös muisssa formaateissa.
 
+### [Nuorten Vaalikone](https://nuortenvaalikone.openvaa.org)
+
+8.5.2024 – Ensimmäinen OpenVAA:n avulla rakennettu vaalikone on videomuotoinen Nuorten Vaalikone, joka on rakennettu yhteistyössä YouthVAA-hankkeen ja Allianssin kanssa.
+
 ### [Vaalikonealustan periaatteellinen pohja](https://docs.google.com/document/d/19pQ6ZEcThT7Hy_Mdds40zBuv6ketp8YozgV-liV48gQ/edit?usp=sharing)
 
 12.1.2024 v1.0 — Muistiossa linjataan yleisellä tasolla vaalikonealustan rakentamiseen liittyvät keskeiset  periaatteelliset lähtökohdat.
