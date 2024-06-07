@@ -8,6 +8,8 @@ read_more_link: /en/intro
 read_more_text: Read More
 feature_caption: Our first VAA is published! <a href="https://nuortenvaalikone.openvaa.org" target="_blank">The Election Compass for Young People</a> provides information using video.
 feature_alt: Screenshots from the video-based Election Compass for Young People
+feature_2_caption: We also published another VAA instance for the EU Elections. <a href="https://vaalikone.openvaa.org" target="_blank">The more traditional VAA</a> is based on the data of the Helsingin Sanomat newspaper’s own VAA.
+feature_2_alt: Screenshots from the EU Elections 2024 VAA
 ---
 
 ## OpenVAA Association

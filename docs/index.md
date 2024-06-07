@@ -7,6 +7,8 @@ title: Rakennamme avointa vaalikonealustaa ja suunnitteluopasta <span class="add
 short_title: Etusivu
 feature_caption: Ensimmäinen OpenVAA-vaalikone on nyt julkaistu! <a href="https://nuortenvaalikone.openvaa.org" target="_blank">Nuorten Vaalikone</a> tarjoaa tietoa videoiden avulla.
 feature_alt: Näkymiä videmuotoisesta Nuorten Vaalikoneesta
+feature_2_caption: Julkaisimme myös toisen koneen EU-vaaleihin! <a href="https://vaalikone.openvaa.org" target="_blank">Perinteisempi vaalikone</a> pohjautuu Helsingin Sanomain vaalikoneen tietoihin.
+feature_2_alt: Näkymiä EU-vaalien 2024 vaalikoneesta
 ---
 
 ## Miksi?
