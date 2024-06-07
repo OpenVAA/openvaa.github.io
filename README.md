@@ -20,9 +20,7 @@ See: https://github.com/jekyll/minima/tree/v2.5.1
 
 Run:
 
-    cd docs
-    bundle install
-    bundle exec jekyll serve
+    cd docs && bundle install && bundle exec jekyll serve
 
 Go to: http://localhost:4000
 
