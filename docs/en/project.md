@@ -6,7 +6,28 @@ title: About
 # short_title: About
 ---
 
-Voting advice applications (VAAs), or election compasses, are outstanding tools for assisting with candidate choice. In the last 25 years, they've become a staple of democracy in Finland and other, mainly European countries. Over two thirds of the electorate make use of them here, and young voters in particular rely on them. For parties and candidates they offer visibility centered on political issues and not constrained by campaign budgets.
+With the OpenVAA software framework, you’ll be able to easily build VAAs for prototyping, research or use in actual elections. It is open-source, free to use, and fully customisable, allowing you to try out new features with minimum effort.
+
+OpenVAA is developed by a Finnish non-profit joining VAA developers and researchers. The project is funded by [Sitra – the Finnish innovation fund](https://www.sitra.fi/en/topics/digital-power-and-democracy/).
+
+We’re looking for researchers to collaborate with and contributors to the framework’s development, as well as organisations willing to publish VAAs.
+
+Don’t hesitate to reach [out to us](mailto:info@openvaa.org) and subscribe to our [newsletter](/newsletter) for updates on our releases.
+
+## Features
+
+🔎	Transparent<br>
+💸	Free to use<br>
+🌍	Fully localisable<br>
+🗳	Use in any election<br>
+🤲	Accessible<br>
+🧩	Modular and fully editable<br>
+🎓	Research-friendly<br>
+🗓	Alpha late 2024 V1.0 in 2025
+
+## Motivation
+
+<p class="ingress">Voting advice applications (VAAs), or election compasses, are outstanding tools for assisting with candidate choice. In the last 25 years, they've become a staple of democracy in Finland and other, mainly European countries. Over two thirds of the electorate make use of them here, and young voters in particular rely on them. For parties and candidates they offer visibility centered on political issues and not constrained by campaign budgets.</p>
 
 For each national election, the largest media outlets publish VAAs that reach millions of electors. In addition to these, some smaller orgnasations release their own VAAs focused on specific viewpoints. All of these applications are, however, strikingly similar both to each other and from one election to the next. Their operational logic has remained mostly unchanged for at least a decade. *Have voting advice applications thus reached the apex of their development?*
 

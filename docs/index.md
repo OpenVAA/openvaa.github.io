@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Rakennamme avointa vaalikonealustaa ja suunnitteluopasta <span class="addendum">🎯 Pilotti EU-vaaleissa 2024</span>
+title: Rakennamme avointa vaalikonealustaa ja suunnitteluopasta <span class="addendum">🎯 Alpha-julkaisu loppuvuodesta 2024</span>
 short_title: Etusivu
 feature_caption: Ensimmäinen OpenVAA-vaalikone on nyt julkaistu! <a href="https://nuortenvaalikone.openvaa.org" target="_blank">Nuorten Vaalikone</a> tarjoaa tietoa videoiden avulla.
 feature_alt: Näkymiä videmuotoisesta Nuorten Vaalikoneesta
