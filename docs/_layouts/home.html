@@ -6,7 +6,8 @@ layout: default
   <section class="hero">
     {%- if page.title -%}
       <h1 class="page-heading">{{ page.title }}</h1>
-      <a class="button" href="{{ page.read_more_link | default: '/intro'}}">{{ page.read_more_text | default: 'Lue lisää'}}</a>
+      <a class="button" href="https://github.com/OpenVAA/voting-advice-application"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github" style="fill: white;"></use></svg> GitHub</a>
+      <a href="{{ page.read_more_link | default: '/intro'}}">{{ page.read_more_text | default: 'Lue lisää'}}</a>
     {%- endif -%}
   </section>
 

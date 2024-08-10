@@ -209,6 +209,10 @@ input[type="submit"],
   // letter-spacing: var(--letterSpacing-L);
 }
 
+.button {
+  margin-bottom: var(--margin-S);
+}
+
 .button--centered {
   display: flex;
   margin-left: auto;
