@@ -5,6 +5,9 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="shortcut icon" type="image/png" href="/assets/images/openvaa-favicon.png">
+  {%- if page.redirect_to -%}
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">
+  {%- endif -%}
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
